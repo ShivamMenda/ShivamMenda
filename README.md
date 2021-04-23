@@ -14,4 +14,4 @@ I'm a Computer Science Student passionate about everything related to developmen
 - Sharing Updates on LinkedIn-<a href="https://www.linkedin.com/in/shivam-menda-324169205/">@LinkedIn</a>
 - Follow me on Twitter-<a href="https://twitter.com/ShivamMenda">@Twitter</a>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivammenda&show_icons=true&theme=dracula))](https://github.com/anuraghazra/github-readme-stats)
+[![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivammenda&show_icons=true&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
