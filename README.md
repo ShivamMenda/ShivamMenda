@@ -1,6 +1,6 @@
 <h1>Hi there 👋, I'm Shivam Menda</h1>
 
-I'm a Computer Science Student passionate about everything related to development, Some of the technologies I like working with are Python, Flutter and designing UI with Adobe XD. I'm also the guy who loves participating in competitions and workshops.  
+I'm a Computer Science Student passionate about everything related to development, Some of the technologies I like working with are Python, Flutter and I'm aspiring to be an ethical hacker. I'm also the guy who loves participating in competitions and workshops.  
 
 
 - 🌱 I’m currently learning ...<b>API Development and DSA.</b>
