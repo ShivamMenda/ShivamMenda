@@ -4,9 +4,9 @@ I'm a Computer Science Student passionate about everything related to developmen
 
 
 - 🌱 I’m currently learning ...<b>API Development and DSA.</b>
-- 👯 I’m looking to collaborate on ...<b>Any Hackathon :)</b>
+- 👯 I’m looking to collaborate on ...<b>Hackathons and CTF's :)</b>
 - 🤔 I’m looking for help with ...<b>Open Source Development</b>
-- 😄 Pronouns: ...<b>He/him</b>
+- 😄 Pronouns: ...<b>He/Him</b>
 - ⚡ Fun fact: ...<b>I live on Coffee</b>
 
 <h2>Find me around the web 🌍</h2>
