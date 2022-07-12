@@ -3,7 +3,7 @@
 I'm a Computer Science Student passionate about everything related to development, Some of the technologies I like working with are Python, Flutter and I'm aspiring to be an ethical hacker. I'm also the guy who loves participating in competitions and workshops.  
 
 
-- 🌱 I’m currently learning ...<b>API Development and DSA.</b>
+- 🌱 I’m currently getting good at ...<b>Python and DSA.</b>
 - 👯 I’m looking to collaborate on ...<b>Hackathons and CTF's :)</b>
 - 🤔 I’m looking for help with ...<b>Open Source Development</b>
 - 😄 Pronouns: ...<b>He/Him</b>
@@ -11,7 +11,7 @@ I'm a Computer Science Student passionate about everything related to developmen
 
 <h2>Find me around the web 🌍</h2>
 
-- Sharing Updates on LinkedIn-<a href="https://www.linkedin.com/in/shivam-menda-324169205/">@LinkedIn</a>
+- LinkedIn-<a href="https://www.linkedin.com/in/shivam-menda-324169205/">@LinkedIn</a>
 - Follow me on Twitter-<a href="https://twitter.com/ShivamMenda">@Twitter</a>
 
 ### :fire: My Stats :
