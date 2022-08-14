@@ -11,8 +11,10 @@ I'm a Computer Science Student passionate about everything related to developmen
 
 <h2>Find me around the web 🌍</h2>
 
-- LinkedIn-<a href="https://www.linkedin.com/in/shivam-menda-324169205/">@LinkedIn</a>
-- Follow me on Twitter-<a href="https://twitter.com/ShivamMenda">@Twitter</a>
+- <a href="https://www.linkedin.com/in/shivam-menda/" ><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+- <a href="https://twitter.com/ShivamMenda" ><img align="center" src="https://img.shields.io/twitter/follow/ShivamMenda.svg?style=social" /> </a>
+
+![](https://komarev.com/ghpvc/?username=ShivamMenda&color=blue)
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shivammenda&theme=dark&background=000000)](https://git.io/streak-stats)
