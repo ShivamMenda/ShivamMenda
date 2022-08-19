@@ -19,7 +19,7 @@ I'm a Computer Science Student passionate about everything related to developmen
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shivammenda&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivammenda&show_icons=true&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivammenda&show_icons=true&theme=dracula&count_private=true)]
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
