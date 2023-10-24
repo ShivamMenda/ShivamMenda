@@ -1,9 +1,9 @@
 <h1>Hi there 👋, I'm Shivam Menda</h1>
 
-I'm a Computer Science Student passionate about everything related to development, Some of the technologies I like working with are Python, Flutter and I'm aspiring to be an ethical hacker. I'm also the guy who loves participating in competitions and workshops.  
+I'm a Computer Science Student passionate about everything related to development, Some of the technologies I like working with are Python, Flutter and I'm aspiring to be an ethical hacker. I'm also a guy who loves participating in competitions and workshops.  
 
 
-- 🌱 I’m currently getting good at ...<b>Python and DSA.</b>
+- 🌱 I’m currently getting good at ...<b>React and Node.js</b>
 - 👯 I’m looking to collaborate on ...<b>Hackathons and CTF's :)</b>
 - 🤔 I’m looking for help with ...<b>Open Source Development</b>
 - 😄 Pronouns: ...<b>He/Him</b>
